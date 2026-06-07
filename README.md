@@ -3,7 +3,7 @@ Senior Artificial Intelligence student focused on Machine Learning, Data Science
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/layan-m-322905198/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FiR9G4mvSg6CpltVJvFOEQ%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sinrae) [![huggingfacce](https://huggingface.co/layan009) [![Kaggle](https://www.kaggle.com/layanalduais) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/layan-m-322905198/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FiR9G4mvSg6CpltVJvFOEQ%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sinrae) huggingfacce: https://huggingface.co/layan009 Kaggle: https://www.kaggle.com/layanalduais
 
 
 # 💻 Tech Stack:
